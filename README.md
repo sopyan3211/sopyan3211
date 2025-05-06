@@ -1,16 +1,61 @@
 ## Hi there 👋
 
 <!--
-**sopyan3211/sopyan3211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sopyan3211/sopyan3211** is a ✨ _special_ ✨ repository because its `README.md` (this file) ap
+!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Pengumuman Orang Hilang</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #fffbe6;
+      color: #000;
+      padding: 30px;
+      max-width: 700px;
+      margin: auto;
+      border: 4px solid red;
+      border-radius: 15px;
+    }
 
-Here are some ideas to get you started:
+    h1 {
+      color: red;
+      font-size: 48px;
+      text-align: center;
+      margin-bottom: 30px;
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    p, li {
+      font-size: 28px;
+      line-height: 1.6;
+    }
+
+    .highlight {
+      font-weight: bold;
+    }
+
+    ul {
+      padding-left: 30px;
+    }
+
+    em {
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <h1>Pengumuman Orang Hilang</h1>
+  <p><span class="highlight">Nama:</span> Yoga Ardiansyah</p>
+  <p><span class="highlight">Umur:</span> 22 tahun</p>
+  <p><span class="highlight">Ciri-ciri:</span></p>
+  <ul>
+    <li>Rambut hitam</li>
+    <li>Tinggi badan sekitar 169 cm</li>
+  </ul>
+  <p><span class="highlight">Terakhir terlihat:</span> di daerah Paiton, Kabupaten Probolinggo</p>
+  <p><span class="highlight">Mengendarai:</span> Motor Revo spek drag 201m</p>
+  <p><strong>Jika melihat atau mengetahui keberadaannya, segera hubungi Polsek setempat.</strong></p>
+  <p style="color:red;"><em>Hati-hati, beliau suka gigit jir!</em></p>
+</body>
+</html>
