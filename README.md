@@ -1,8 +1,4 @@
-## Hi there 👋
 
-<!--
-**sopyan3211/sopyan3211** is a ✨ _special_ ✨ repository because its `README.md` (this file) ap
-!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
